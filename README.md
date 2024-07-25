@@ -1,2 +1,2 @@
 # QNRF-EN-dataset
-English portion of the data
+English portion of the dataset
